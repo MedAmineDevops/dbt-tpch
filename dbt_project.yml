@@ -18,7 +18,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 profile: tpch
 
-require-dbt-version: ">=0.13.1"
+require-dbt-version: ">=1.0.0"
 
 quoting:
     database: false
